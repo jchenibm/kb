@@ -1,7 +1,19 @@
-# Obsidian Notes
+---
+aliases: null
+tags: null
+type: null
+source: null
+status: null
+created: 2023-07-31 15:30:39
+modified: 2023-07-31 15:55:04
+---
 
-Publish your public notes with MkDocs
+# Obsidian Notes
 
 ## Welcome to Billy's Obsidian Vault!
 
 [[大模型相关技术]]
+
+---
+
+Powered by **MkDocs**
