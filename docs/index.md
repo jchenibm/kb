@@ -2,7 +2,7 @@
 
 Publish your public notes with MkDocs
 
-## Hello World! Welcome to Billy's Obsidian Vault!
+## Welcome to Billy's Obsidian Vault!
 
 The `index.md` in the `/docs` folder is the homepage you see here.
 
