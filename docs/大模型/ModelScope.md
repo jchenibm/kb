@@ -1,5 +1,3 @@
-#modelscope #阿里云 #alibaba #model #模型 
-
 # ModelScope 魔搭社区
 
 - 首页 https://modelscope.cn 
