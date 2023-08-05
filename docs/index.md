@@ -12,7 +12,7 @@ modified: 2023-07-31 15:55:04
 
 ## Welcome to Billy's Obsidian Vault!
 
-[[10 Publish/kb/docs/大模型/大模型相关技术]]
+[[大模型/大模型相关技术]]
 
 ---
 
