@@ -1,5 +1,7 @@
 ### 概要
 
+![[Ansible vs. Terraform.png]]
+
 - Ansible是一种配置管理工具，而Terraform是一种基础设施即代码工具。
 - Ansible使用基于Python的自定义语言和YAML配置文件，而Terraform使用基于HCL的配置文件。
 - Ansible主要用于自动化配置管理、应用程序部署和编排，而Terraform主要用于基础设施的创建、修改和销毁。
